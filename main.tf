@@ -15,6 +15,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "IPI_Formation_Terraform" {
-  name     = "rg-nicolas"
+  name     = "rg-Nicolas"
   location = "westeurope"
 }
